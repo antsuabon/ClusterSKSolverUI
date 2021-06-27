@@ -7,3 +7,6 @@ En este repositorio se implementa la interfaz gráfica que permite analizar paso
 Estudiante: Antonio Suárez Bono
 
 Curso 2020/2021
+
+
+Instruccion para ejecutar el proyecto: ```mvn javafx:run```
